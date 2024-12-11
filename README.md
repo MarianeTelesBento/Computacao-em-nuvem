@@ -1,4 +1,4 @@
-# Modelos de Nuvem
+    ### Modelos de Nuvem
     - É fornecimento de serviços de computação pela internet
     - Virtualização dos data centers por grandes empresas
     - Computação, Rede, Armazenamento
@@ -34,7 +34,7 @@
     ### MultiCloud
     
     - O uso de nuvens de diferentes empresas como microsoft e outras.
-#CapEx e OpEx
+    ###CapEx e OpEx
     
     ### Despesas de Capital (CapEx)
     
