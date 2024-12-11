@@ -14,8 +14,6 @@
     - São responsáveis pela manutenção e atualização de hardware e software
     - Pessoas de fora da organização não tem acesso
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/740e35ca-a7c6-4e32-9627-4d268692ac5e/4b81885b-d68c-447b-acc4-b53e96590035/image.png)
-        
     
     ### Nuvem publica
     
@@ -25,8 +23,6 @@
     - Pode excluir e alterar sem grandes cobranças
         - Geralmente internet
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/740e35ca-a7c6-4e32-9627-4d268692ac5e/75861ef3-192e-40e0-8960-3c2e77b97e53/image.png)
-        
     
     ### Nuvem híbrida
     
@@ -35,8 +31,6 @@
     - Organizações determinam onde executar os aplicativos
     - As organizações controlam a segurança, conformidade e requisitos legais.
     - Fornece maior flexibilidade
-        
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/740e35ca-a7c6-4e32-9627-4d268692ac5e/9a049b47-c71e-48b5-8412-2062e71987c0/image.png)
         
     
     ### MultiCloud
