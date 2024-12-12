@@ -52,4 +52,59 @@
     ### Modelo Baseado em Consumo
     
     - Cobrança é feita com base no seu uso real.
-    - Modelo da núvem
+    - Modelo da nuvem
+ 
+      
+## Benefícios da Computação em Nuvem
+
+- Alta disponibilidade
+    - Recursos disponíveis sempre que necessário
+    - Contrato da Azure, onde a Microsoft garante um certo período de tolerância de indisponibilidade
+        - SLA → Nome do contrato
+        - 99% - 99.95%
+        - Você ganha um voucher de crédito
+- Escalabilidade e Elasticidade
+    
+    ### Escalabilidade
+    
+    - Refere-se à capacidade  de ajustar recursos para atender à demanda.
+    - Para cima, escalada vertical
+        - Adicionar mais CPUs, RAM…
+    - Nuvem é baseada em consumo
+    
+    ### Elasticidade
+    
+    - Salto repentino acentuado na demanda
+    - Dimensionar com base em requisições
+    - Aumentam horizontalmente e reduzem horizontalmente
+    - Nomalmente feito de forma automática.
+- Confiabilidade, Previsibilidade e Segurança
+    
+    ### Confiabilidade
+    
+    - Modelo da nuvem é descentralizado
+    - Permite que os recursos sejam implantados em várias regiões do mundo.
+    - Escala global
+    
+    ### Previsibilidade
+    
+    - Confiança, seja no desempenho ou no custo
+    
+    ### Segurança
+    
+    - Ferramentas de segurança
+    - Muitas implementações de segurança devem ser realizadas pelo cliente
+    - Responsabilidade do provedor é oferecer recursos, já o seu é aplicar esses recursos.
+- Governança e Gerenciabilidade
+    
+    ### Governança
+    
+    - Como gerir os recursos
+    - Conformidades e padronizações
+    - Auditoria
+    - Padrões de gestão
+    
+    ### Gerenciabilidade
+    
+    - Gerenciamento da nuvem diz respeito a gerenciar seus recursos de nuvem. Por exemplo:
+        - Escalar automaticamente a implantação de recursos com base na necessidade
