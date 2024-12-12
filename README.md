@@ -103,6 +103,11 @@
     - Conformidades e padronizações
     - Auditoria
     - Padrões de gestão
+      
+  ### Gerenciabilidade
+    
+    - Gerenciamento da nuvem diz respeito a gerenciar seus recursos de nuvem. Por exemplo:
+    - Escalar automaticamente a implantação de recursos com base na necessidade
 
 ## Tipos de Serviço de Nuvem
 
@@ -136,7 +141,3 @@
     - IaaS → Hosts físicos, Rede Física e Datacenter físico são responsabilidade da Microsoft
     - PaaS → As acima, e o SO são responsabilidade da Microsoft, já Controles de rede, Aplicativo e infra estrutura de identidade e diretório são compartilhadas
     - SaaS As acima, e Contole de Rede, Aplicativos são responsabilidade da microsoft, a infraestrurura de identidade e diretório são compartilhadas
-    ### Gerenciabilidade
-    
-    - Gerenciamento da nuvem diz respeito a gerenciar seus recursos de nuvem. Por exemplo:
-        - Escalar automaticamente a implantação de recursos com base na necessidade
