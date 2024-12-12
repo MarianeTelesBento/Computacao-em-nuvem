@@ -103,7 +103,39 @@
     - Conformidades e padronizações
     - Auditoria
     - Padrões de gestão
+
+## Tipos de Serviço de Nuvem
+
+- IaaS, PaaS e SaaS
     
+    ### IaaS
+    
+    - Infraestrutura como Serviço
+        
+    - Clientes tem mais acesso
+        - Precisa configura e personalizar o recurso
+    - Serviço de nuvem mais flexível
+    
+    ### PaaS
+    
+    - Plataforma como Serviço
+        
+    - Fornece um ambiente para criação, teste e implantação, sem focar no gerenciamento da infraestrutura subjacente
+    - Focado no desenvolvimento de aplicativos
+    
+    ### SaaS
+    
+    - Software como Serviço
+        
+    - Teams
+    - Conforme o modelo de licença, o acesso do usuário é personalizável
+    - Usuário paga pelo software que usam, em modelo de assinatura (licenciamento)
+- Modelo de responsabilidade Compartilhada
+    
+    - No local → Toda a responsabilidade é do cliente
+    - IaaS → Hosts físicos, Rede Física e Datacenter físico são responsabilidade da Microsoft
+    - PaaS → As acima, e o SO são responsabilidade da Microsoft, já Controles de rede, Aplicativo e infra estrutura de identidade e diretório são compartilhadas
+    - SaaS As acima, e Contole de Rede, Aplicativos são responsabilidade da microsoft, a infraestrurura de identidade e diretório são compartilhadas
     ### Gerenciabilidade
     
     - Gerenciamento da nuvem diz respeito a gerenciar seus recursos de nuvem. Por exemplo:
